@@ -64,8 +64,8 @@ The script uses the optparse library for command-line arguments. Run the script 
     
 Arguments
 
--t or --target: The target's IP address (required).
--s or --source: The IP address to spoof as (required).
+- -t or --target: The target's IP address (required).
+- -s or --source: The IP address to spoof as (required).
 
 
 Example
@@ -74,7 +74,7 @@ Example
 
     
 Termination
-Press CTRL+C to stop the attack and restore ARP tables.
+- Press CTRL+C to stop the attack and restore ARP tables.
 
 
 
