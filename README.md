@@ -34,7 +34,7 @@ This tool demonstrates the implementation of:
 
 ---
 
- Installation
+## Installation
 
 ### Prerequisites
 
